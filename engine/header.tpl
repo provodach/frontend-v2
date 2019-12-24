@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="description" content="Проводач. Самая атмосферная радиостанция в Сети.">
 		<meta name="keywords" content="проводач, провода, панельки, панельные дома, урбанистика, онлайн радио, радио, радио онлайн, спокойная музыка, музыка для отдыха, пост рок, эмбиент, provodach, provoda.ch, panel house, panel buildings, plattenbau, plattenbauten, urban, urbanistic, wires, wire pole, ambient, post-rock, relax music, relaxation music, relax radio">
-		<meta property="og:image" content="https://api.https.cat/graphics/provodach/web/night/">
+		<meta property="og:image" content="https://api.nay.su/graphics/provodach/web/night/">
 		<meta name="author" content="IDENT Software">
 		<meta name="google-play-app" content="app-id=org.identsoft.provodach">
 		<meta name="apple-itunes-app" content="app-id=1080566427">
@@ -30,9 +30,9 @@
 		<title><?php echo($content['title']); ?></title>
 
 
-		<script src="//static.https.cat/js/jquery.js" type="text/javascript"></script>
-		<script src="//static.https.cat/js/jquery.mousewheel.js" type="text/javascript"></script>
-		<script src="//static.https.cat/js/util.js" type="text/javascript"></script>
+		<script src="//static.nay.su/js/jquery.js" type="text/javascript"></script>
+		<script src="//static.nay.su/js/jquery.mousewheel.js" type="text/javascript"></script>
+		<script src="//static.nay.su/js/util.js" type="text/javascript"></script>
 		<script src="/assets/js/radio.js?v<?php echo(CLIENT_VERSION); ?>" type="text/javascript"></script>
 		<script src="/assets/js/trackvote.js?v<?php echo(CLIENT_VERSION); ?>" type="text/javascript"></script>
 		<script src="/assets/js/core.js?v<?php echo(CLIENT_VERSION); ?>" type="text/javascript"></script>

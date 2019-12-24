@@ -13,7 +13,7 @@ var
 	titleTimer  = null,
 	
 	sariaSettings = {
-		server                 : 'airin.https.cat',
+		server                 : 'airin.nay.su',
 		port                   : 443,
 		secure                 : true,
 		authCode               : '',
